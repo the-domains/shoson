@@ -1,0 +1,28 @@
+name: shoson
+favicon: null
+layout_spectrum: 0.03380718478001654
+typography_spectrum: 0.7861539090517908
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.29312233394011855
+  lightness: 0.42540656914934516
+  saturation: 0.4119129634927958
+  rhythmicContrast: 0.9685115951579064
+purpose: []
